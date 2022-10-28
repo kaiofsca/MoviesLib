@@ -18,7 +18,7 @@
 
 ##
 
-[MoviesLib](https://movieslibreact.netlify.app/)
+[MoviesLib](https://kaiomovieslib.netlify.app/)
 
 ##
 
